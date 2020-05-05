@@ -1,4 +1,4 @@
-# Mondrian-Painting-Python-Tutorial
+# Mondriaan-Painting-Python-Tutorial
 Mondrian Painting Python Tutorial
 
 ![alt text](https://github.com/RoelTim/Mondrian-Painting-Python-Tutorial/blob/master/Mondrian_Python_Drawing.JPG)
