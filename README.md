@@ -1,7 +1,7 @@
 # Mondriaan-Painting-Python-Tutorial
 Mondriaan Painting Python Tutorial
 
-![alt text](https://github.com/RoelTim/Mondrian-Painting-Python-Tutorial/blob/master/Mondriaan_Python_Drawing.JPG)
+![alt text](https://github.com/RoelTim/Mondrian-Painting-Python-Tutorial/blob/master/Mondrian_Python_Drawing.JPG)
 
 The file Mondriaan_Painting.py contains the code that draws a Mondriaan painting with Python.
 
