@@ -9,3 +9,5 @@ This is a great code for students who want to learn about:
   - loops
   - functions
   - turtle module - the Python module to make drawings
+
+YouTube Link: https://www.youtube.com/watch?v=CdEIgjLxzcg&list=WL
